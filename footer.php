@@ -6,7 +6,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&display=swap" rel="stylesheet">
     <title>MSUKC</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-    <?php wp_header()?>
 </head>
 <body>
     /*Navigation*/
@@ -23,15 +22,6 @@
             </ul>
         </div>  
     </nav>
-    
-  /*Hero Section*/
-    <main class="min-h-screen bg-white text-black flex flex-col md:flex-row mt-5 md:mt-0 text-center md:text-left justify-evenly items-center">
-        <div class="">
-            <h1 class="text-4xl">Welcome to Mindanao State University Karate Club</h1>
-            <p class="text-xl">Become a warrior of the lake</p>
-            <button class="mt-12 py-4 px-6 color-red">Enroll now</button>
-        </div>
-        <div class="h-72 w-72 hidden md:block bg-black">
-            <img src="">Mindanao Image
-        </div>
-    <main>
+    <?php wp_footer()?>
+</body>
+</html>
