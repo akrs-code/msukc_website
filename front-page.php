@@ -9,7 +9,15 @@
     <?php get_header()?>
 </head>
 <body>
-    
+    <main class="min-h-screen">
+        <div class="flex justify-evenly items-center">
+            <div>
+            <h1>STRIVE FOR PERFECTION OF CHARACTER</h1>
+            <p>Sincerity.Effort.Etiquette.Character.Self-control</p>
+            </div>
+            <img src="" alt="" srcset="">
+            </div>
+    </main>
 </body>
     <?php get_footer()?>
 </head>
