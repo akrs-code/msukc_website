@@ -20,10 +20,22 @@
     </main>
 
     <div>
-        <div class="h-20 w-20 bg-black"></div>
-        <div class="h-20 w-20 bg-black"></div>
-        <div class="h-20 w-20 bg-black"></div>
-        <div class="h-20 w-20 bg-black"></div>
+        <div class="h-20 w-20 bg-black">
+            <h1 class="text-white">200</h1>
+            <p>STUDENTS</p>
+        </div>
+        <div class="h-20 w-20 bg-black">
+            <h1 class="text-white">200</h1>
+            <p>STUDENTS</p>
+        </div>
+        <div class="h-20 w-20 bg-black">
+            <h1 class="text-white">200</h1>
+            <p>STUDENTS</p>
+        </div>
+        <div class="h-20 w-20 bg-black">
+            <h1 class="text-white">200</h1>
+            <p>STUDENTS</p>
+        </div>
     </div>
 </body>
     <?php get_footer()?>
